@@ -2,7 +2,7 @@
     "id": "63eecd61-7a2b-42d8-a21e-45d9ce1a9aa4",
     "modelName": "GMPath",
     "mvc": "1.0",
-    "name": "path_fish_big_2",
+    "name": "path_fish_large_2",
     "closed": false,
     "hsnap": 0,
     "kind": 0,

@@ -5,7 +5,8 @@
     "name": "692157c9-c791-43b9-9a56-70640c6f6e57",
     "children": [
         "eaa4f1de-b119-467b-8fbd-ee06be417be2",
-        "2a2b70f3-72d9-4ccb-94fc-0f0480c4566f"
+        "2a2b70f3-72d9-4ccb-94fc-0f0480c4566f",
+        "b7b62075-5bdc-4f12-aaa2-5f83d7de16e6"
     ],
     "filterType": "GMScript",
     "folderName": "Fish",
