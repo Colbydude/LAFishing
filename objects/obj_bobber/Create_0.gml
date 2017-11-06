@@ -1,5 +1,7 @@
-can_reel = true;                // Whether or not you can use the stronger reel action.
+has_cast = false;               // Whether or not the bobber has been cast.
+has_landed = false;             // Whether or not the bobber has hit the water.
 image_speed = 0;                // No animations here.
-phy_fixed_rotation = true;      // Prevent the physics object from rotating.
-pursuer = null;                 // Whether or not the bobber is being pursued by a fish.
-state = States.BobberUsable;    // State.
+state = States.BobberIdle;      // State.
+
+x = 120;
+y = 40;

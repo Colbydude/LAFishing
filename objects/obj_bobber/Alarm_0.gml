@@ -1,2 +1,2 @@
-/// @description Reset can_reel
-can_reel = true;
+/// @description Switch to physics bobber.
+instance_change(obj_bobber_physics, true);

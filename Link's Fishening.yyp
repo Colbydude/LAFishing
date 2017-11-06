@@ -39,6 +39,25 @@
     },
     "resources": [
         {
+            "Key": "000b858d-a0ab-48ed-a9f6-f050813d7c1c",
+            "Value": {
+                "id": "d9760cfe-ed5d-4ca0-8dad-10910dcafd2e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_bobber_physics\/obj_bobber_physics.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "05a6392a-3aa2-4358-9e40-bf58614958b5",
             "Value": {
                 "id": "c330edf7-aaf0-4a66-a0e3-0bc0ed25bbce",
@@ -74,6 +93,25 @@
                 ],
                 "resourcePath": "sprites\/spr_fish_large_bobber_right\/spr_fish_large_bobber_right.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0dcfd015-824c-42b8-a6da-41584e0fb876",
+            "Value": {
+                "id": "93457147-eb11-40ef-b056-853b14e34a1f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_splash\/obj_splash.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -191,6 +229,25 @@
             }
         },
         {
+            "Key": "2a0934ba-0e2d-4644-8c48-f762edbf91d0",
+            "Value": {
+                "id": "12314837-b7ce-4e89-8383-1206b6c0e459",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/font_debug\/font_debug.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "2a2b70f3-72d9-4ccb-94fc-0f0480c4566f",
             "Value": {
                 "id": "e869c376-683d-454e-9275-64d47a64757a",
@@ -245,6 +302,25 @@
                 ],
                 "resourcePath": "scripts\/macros\/macros.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "37e1d9cb-5620-4e6e-a95f-be65f77e9d4b",
+            "Value": {
+                "id": "5e3699f7-efea-4fcf-9faa-572cda654d90",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/37e1d9cb-5620-4e6e-a95f-be65f77e9d4b.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -587,6 +663,25 @@
                 ],
                 "resourcePath": "options\/html5\/options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "7a28b3f4-9165-4030-9fec-ba829564c08b",
+            "Value": {
+                "id": "41f7b4e2-7ae8-451e-ac6a-a6681a7629d7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_splash\/spr_splash.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1290,6 +1385,25 @@
                 ],
                 "resourcePath": "views\/defa36dd-976e-4016-953f-7689c6f89b09.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dfa752ce-f0b7-4ad1-b25d-ff65a8b985fc",
+            "Value": {
+                "id": "6b93023b-fea3-4389-bff0-7dfc272ced04",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_numbers\/spr_numbers.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

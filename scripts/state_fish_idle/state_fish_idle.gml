@@ -29,14 +29,14 @@ if (path_position >= 0.90) {
 }
 
 // Check to see if we can pursue the bobber.
-if (instance_exists(obj_bobber)) {
+if (instance_exists(obj_bobber_physics)) {
     if (
-        obj_bobber.state == state_bobber_usable &&
-        point_in_cone_of_sight(obj_bobber.x, obj_bobber.y) &&
-        obj_bobber.pursuer == null
+        obj_bobber_physics.state == States.BobberUsable &&
+        point_in_cone_of_sight(obj_bobber_physics.x, obj_bobber_physics.y) &&
+        obj_bobber_physics.pursuer == null
     ) {
         path_end();
-        state = state_fish_pursuit;
-        obj_bobber.pursuer = self;
+        state = States.FishPursuit;
+        obj_bobber_physics.pursuer = self;
     }
 }

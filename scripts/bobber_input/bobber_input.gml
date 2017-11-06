@@ -9,10 +9,10 @@ if (keyboard_check_pressed(ord("Z")) || keyboard_check_pressed(ord("X"))) {
 
     // Pull back if we're in the little hole on the right.
     if (x > 128) {
-        physics_apply_force(x, y, -6, -8);
+        physics_apply_force(x, y, -10, -8);
     }
     else {
-        physics_apply_force(x, y, 6, -8);
+        physics_apply_force(x, y, 10, -8);
     }
 }
 

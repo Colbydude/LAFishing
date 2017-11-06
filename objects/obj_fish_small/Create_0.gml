@@ -4,3 +4,5 @@ spr_mouth_open = spr_fish_small_mouth_open;
 spr_swim = spr_fish_small;
 
 event_inherited();
+
+point_value = 5;

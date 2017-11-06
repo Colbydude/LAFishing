@@ -1,6 +1,6 @@
 /// @description Destroy
 with (pursuer) {
-    instance_destroy();
+    global.points += point_value;
 }
 
 instance_destroy();
